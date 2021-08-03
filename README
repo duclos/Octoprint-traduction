@@ -1,12 +1,16 @@
-Voici un fichier zip permettant la traduction française d'octoprint (V1.3.12).
-Vous retrouverez ce travail sur le wiki des paquets langages d'octoprint : 
-https://github.com/foosel/OctoPrint/wiki#language-packs
-
-Cette traduction date du 31-01-2020
-
-contenu transférer sur un nouveau lien (note du 02-08-2021):
-https://community.octoprint.org/docs?search=french&topic=21144
-
-Le 03-08-2021, j'ai mis à jour le packet zip d'installation des langues.
+Mis à jour le 03-08-2021.
+J'ai mis à jour le packet zip d'installation des langues pour octoprint.
 Il s'agit d'une mise à jour de mon travail du 30-01-2020. Elle fonctionne pour la version 1.6.1 d'octoprint.
 Il existe une version sur transifex, peut-être meilleur, mais il faut créer un compte, et il me semble que le package zip n'est pas fait.
+Voici un fichier zip permettant la traduction française d'octoprint (V1.6.1).
+
+Vous retrouverez ce travail sur le wiki des paquets langages d'octoprint : 
+https://community.octoprint.org/docs?search=french&topic=21144
+
+----
+Message du 31-01-2020
+Voici un fichier zip permettant la traduction française d'octoprint (V1.3.12).
+Vous retrouverez ce travail sur le wiki des paquets langages d'octoprint : 
+https://github.com/foosel/OctoPrint/wiki#language-packs (lien obsolète)
+
+Cette traduction date du 31-01-2020
